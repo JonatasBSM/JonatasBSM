@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JonatasBSM from Brazil, 19 years
 
-- 👀 I’m interested in programming, videogames and music (specially R&B)
+- 👀 I’m interested in coding, videogames and music (specially R&B)
 
-- 🌱 I’m currently learning how to create better css designs and learning about frameworks (i'm new here on Github too, actually XD)
+- 🌱 I’m currently learning how to create better css designs and learning about frameworks (i'm new here on Github too, actually XD). I'm used to code with Python, Java, C and JS, but always trying to learn different languages
 
 - 💞️ I’m looking to collaborate on different types of projects (more interested in web applications)
 
