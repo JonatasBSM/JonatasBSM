@@ -2,11 +2,7 @@
 
 - 👀 I’m interested in coding, videogames and music (specially R&B)
 
-- 🌱 I’m currently learning how to create better css designs and learning about frameworks (i'm new here on Github too, actually XD). I'm used to code with Python, Java, C and JS, but always trying to learn different languages
-
-- 💞️ I’m looking to collaborate on different types of projects (more interested in web applications)
-
-- 📫 You can contact me through my e-mail (jonatasbsmcarvalho@gmail.com) or Whatsapp +55 (75) 98308-2626
+- Now working as web junior developer using laravel and vuejs
 
 <!---
 JonatasBSM/JonatasBSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
