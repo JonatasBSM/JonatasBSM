@@ -1,4 +1,4 @@
-JS + Laravel + Pokémon = Happy Jônatas 😊
+JS + Laravel + Pokémon = Happy me 😊
 
 <!---
 JonatasBSM/JonatasBSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
