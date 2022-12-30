@@ -1,4 +1,4 @@
-JS + Laravel + Pokémon = Happy me 😊
+**JS + Laravel + Pokémon = Happy me 😊**
 <br />
 <br />
 <br />
