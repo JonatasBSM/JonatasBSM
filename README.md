@@ -15,8 +15,8 @@ I'm a computer science student at Faculdade Descomplica, and I'm passionate abou
 
 ## Projects
 
-- [Project 1](https://github.com/username/project1): A web application built with Laravel and Vue.js
-- [Project 2](https://github.com/username/project2): A responsive website built with Bootstrap and Tailwind CSS
+- [Project 1](https://github.com/username/project1): A web application built with Laravel, Vue.js and Tailwind CSS
+- [Project 2](https://github.com/username/project2): A responsive website built with Laravel, VUe.js and Bootstrap
 - [Project 3](https://github.com/username/project3): A database-driven web application built with Oracle Database and PHP
 
 ## GitHub Stats
